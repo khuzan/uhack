@@ -14,7 +14,7 @@
     
     </style>
 </head>
-<body>
+<body ng-app="project">
   	<div class="login-reg-panel">
 		<div class="login-info-box">
 			<h2>Have an account?</h2>
@@ -82,5 +82,9 @@ $('.login-reg-panel input[type="radio"]').on('change', function() {
     
     
 </script>
+<script src="angular/angular.min.js"></script>
+
+<script src="angular/app.js"></script>
+
 </body>
 </html>
