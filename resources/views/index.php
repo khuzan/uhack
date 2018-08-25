@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="google-signin-client_id" content="546768828114-ti2ailii7arsu26glgbms88sjmebnh6q.apps.googleusercontent.com">
     <title>Document</title>
     <script
   src="js/jquery-3.3.1.js"
@@ -38,6 +39,7 @@
                 <a href="user">
                     <input type="button" value="Login">
                 </a>
+                <div class="g-signin2" data-onsuccess="onSignIn"></div>
 				<a href="">Forgot password?</a>
 			</div>
 			<div class="register-show">
@@ -82,9 +84,23 @@ $('.login-reg-panel input[type="radio"]').on('change', function() {
     
     
 </script>
+<script src="https://apis.google.com/js/platform.js" async defer></script>
 <script src="angular/angular.min.js"></script>
 
 <script src="angular/app.js"></script>
+
+<script type="text/javascript">
+	var data;
+	function onSignIn(googleUser) {
+  var profile = googleUser.getBasicProfile();
+  console.log('ID: ' + profile.getId()); // Do not send to your backend! Use an ID token instead.
+  console.log('Name: ' + profile.getName());
+  console.log('Image URL: ' + profile.getImageUrl());
+  console.log('Email: ' + profile.getEmail()); // This is null if the 'email' scope is not present.
+  	//data = profile;
+   window.location = "/user";
+}
+</script>
 
 </body>
 </html>
