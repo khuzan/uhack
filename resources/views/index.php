@@ -35,7 +35,7 @@
 				<h2>LOGIN</h2>
 				<input type="text" placeholder="Email">
 				<input type="password" placeholder="Password">
-                <a href="table">
+                <a href="user">
                     <input type="button" value="Login">
                 </a>
 				<a href="">Forgot password?</a>
