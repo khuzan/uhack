@@ -25,9 +25,6 @@ Route::prefix('/')->group(function () {
     Route::get('table', function () {
     	return view('table');
     });
-    Route::get('create', function () {
-    	return view('create');
-    });
     Route::get('maps', function () {
         return view('maps');
     });
