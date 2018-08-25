@@ -24,11 +24,11 @@
 			<input type="radio" name="active-log-panel" id="log-reg-show"  checked="checked">
 		</div>
 							
-		<div class="register-info-box">
-			<h2>Don't have an account?</h2>
-			<p>Lorem ipsum dolor sit amet</p>
-			<label id="label-login" for="log-login-show">Register</label>
-			<input type="radio" name="active-log-panel" id="log-login-show">
+		<div class="register-info-box" style="margin-top:-50px;">
+			<h1>ComUFarm</h1>
+			<p>is a simple social media base community farming initiative. Encouraging urban weekend farmers to buy and sell produce from other members of the community.</p>
+			<!-- <label id="label-login" for="log-login-show">Register</label>
+			<input type="radio" name="active-log-panel" id="log-login-show"> -->
 		</div>
 							
 		<div class="white-panel">
