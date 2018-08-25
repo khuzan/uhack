@@ -25,11 +25,17 @@ Route::prefix('/')->group(function () {
     Route::get('table', function () {
     	return view('table');
     });
+    Route::get('template', function () {
+    	return view('template');
+    });
     Route::get('maps', function () {
         return view('maps');
     });
     Route::get('icons', function () {
     	return view('icons');
+    });
+    Route::get('typography', function () {
+    	return view('typography');
     });
     Route::get('notifications', function () {
     	return view('notifications');
