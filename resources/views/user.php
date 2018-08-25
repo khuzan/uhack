@@ -42,9 +42,7 @@
 
     	<div class="sidebar-wrapper">
             <div class="logo">
-                <a href="http://www.creative-tim.com" class="simple-text">
-                    Creative Tim
-                </a>
+                <img src="img/logo.png">
             </div>
 
             <ul class="nav">
@@ -90,12 +88,6 @@
                         <p>Notifications</p>
                     </a>
                 </li>
-				<li class="active-pro">
-                    <a href="upgrade ">
-                        <i class="ti-export"></i>
-                        <p>Upgrade to PRO</p>
-                    </a>
-                </li>
             </ul>
     	</div>
     </div>
@@ -110,7 +102,7 @@
                         <span class="icon-bar bar2"></span>
                         <span class="icon-bar bar3"></span>
                     </button>
-                    <a class="navbar-brand" href="#">User Profile</a>
+                    <a class="navbar-brand" href="#">Farmers Profile</a>
                 </div>
             </div>
         </nav>
@@ -138,22 +130,23 @@
                                     Quantity: 5kls
                                 </p>
                                 <p class="description text-center">
-                                  <btn class="btn btn-sm btn-success btn-icon"><i class="fa fa-envelope"></i></btn>
-                                  <btn class="btn btn-sm btn-success btn-icon"><i class="fa fa-money"></i></btn>
-                                  <btn class="btn btn-sm btn-success btn-icon"><i class="fa fa-handshake-o"></i></btn>
+                                  <btn class="btn btn-sm btn-success btn-icon"><i class="fa fa-envelope" title="Message"></i></btn>
+                                  <btn class="btn btn-sm btn-success btn-icon"><i class="fa fa-money" title="Payment"></i></btn>
+                                  <btn class="btn btn-sm btn-success btn-icon"><i class="fa fa-handshake-o" title="Barter"></i></btn>
+                                  <btn class="btn btn-sm btn-success btn-icon"><i class="fa fa-credit-card-alt" title="Fund"></i></btn>
                                 </p>
                             </div>
                             <hr>
                             <div class="text-center">
                                 <div class="row">
                                     <div class="col-md-3 col-md-offset-1">
-                                        <h5>12<br /><small>Files</small></h5>
+                                        <h5>12<br /><small>Transactions</small></h5>
                                     </div>
                                     <div class="col-md-4">
                                         <h5>2GB<br /><small>Used</small></h5>
                                     </div>
                                     <div class="col-md-3">
-                                        <h5>24,6$<br /><small>Spent</small></h5>
+                                        <h5>24,6Php<br /><small>Spent</small></h5>
                                     </div>
                                 </div>
                             </div>
@@ -178,22 +171,23 @@
                                     Quantity: 15kls
                                 </p>
                                 <p class="description text-center">
-                                  <btn class="btn btn-sm btn-success btn-icon"><i class="fa fa-envelope"></i></btn>
-                                  <btn class="btn btn-sm btn-success btn-icon"><i class="fa fa-money"></i></btn>
-                                  <btn class="btn btn-sm btn-success btn-icon"><i class="fa fa-handshake-o"></i></btn>
+                                  <btn class="btn btn-sm btn-success btn-icon"><i class="fa fa-envelope" title="Message"></i></btn>
+                                  <btn class="btn btn-sm btn-success btn-icon"><i class="fa fa-money" title="Payment"></i></btn>
+                                  <btn class="btn btn-sm btn-success btn-icon"><i class="fa fa-handshake-o" title="Barter"></i></btn>
+                                  <btn class="btn btn-sm btn-success btn-icon"><i class="fa fa-credit-card-alt" title="Fund"></i></btn>
                                 </p>
                             </div>
                             <hr>
                             <div class="text-center">
                                 <div class="row">
                                     <div class="col-md-3 col-md-offset-1">
-                                        <h5>12<br /><small>Files</small></h5>
+                                        <h5>12<br /><small>Transactions</small></h5>
                                     </div>
                                     <div class="col-md-4">
                                         <h5>2GB<br /><small>Used</small></h5>
                                     </div>
                                     <div class="col-md-3">
-                                        <h5>24,6$<br /><small>Spent</small></h5>
+                                        <h5>24,6Php<br /><small>Spent</small></h5>
                                     </div>
                                 </div>
                             </div>
@@ -222,22 +216,23 @@
                                     Quantity: 10kls
                                 </p>
                                 <p class="description text-center">
-                                  <btn class="btn btn-sm btn-success btn-icon"><i class="fa fa-envelope"></i></btn>
-                                  <btn class="btn btn-sm btn-success btn-icon"><i class="fa fa-money"></i></btn>
-                                  <btn class="btn btn-sm btn-success btn-icon"><i class="fa fa-handshake-o"></i></btn>
+                                  <btn class="btn btn-sm btn-success btn-icon"><i class="fa fa-envelope" title="Message"></i></btn>
+                                  <btn class="btn btn-sm btn-success btn-icon"><i class="fa fa-money" title="Payment"></i></btn>
+                                  <btn class="btn btn-sm btn-success btn-icon"><i class="fa fa-handshake-o" title="Barter"></i></btn>
+                                  <btn class="btn btn-sm btn-success btn-icon"><i class="fa fa-credit-card-alt" title="Fund"></i></btn>
                                 </p>
                             </div>
                             <hr>
                             <div class="text-center">
                                 <div class="row">
                                     <div class="col-md-3 col-md-offset-1">
-                                        <h5>12<br /><small>Files</small></h5>
+                                        <h5>12<br /><small>Transactions</small></h5>
                                     </div>
                                     <div class="col-md-4">
                                         <h5>2GB<br /><small>Used</small></h5>
                                     </div>
                                     <div class="col-md-3">
-                                        <h5>24,6$<br /><small>Spent</small></h5>
+                                        <h5>24,6Php<br /><small>Spent</small></h5>
                                     </div>
                                 </div>
                             </div>
@@ -262,22 +257,23 @@
                                     Quantity: 30kls
                                 </p>
                                 <p class="description text-center">
-                                  <btn class="btn btn-sm btn-success btn-icon"><i class="fa fa-envelope"></i></btn>
-                                  <btn class="btn btn-sm btn-success btn-icon"><i class="fa fa-money"></i></btn>
-                                  <btn class="btn btn-sm btn-success btn-icon"><i class="fa fa-handshake-o"></i></btn>
+                                  <btn class="btn btn-sm btn-success btn-icon"><i class="fa fa-envelope" title="Message"></i></btn>
+                                  <btn class="btn btn-sm btn-success btn-icon"><i class="fa fa-money" title="Payment"></i></btn>
+                                  <btn class="btn btn-sm btn-success btn-icon"><i class="fa fa-handshake-o" title="Barter"></i></btn>
+                                  <btn class="btn btn-sm btn-success btn-icon"><i class="fa fa-credit-card-alt" title="Fund"></i></btn>
                                 </p>
                             </div>
                             <hr>
                             <div class="text-center">
                                 <div class="row">
                                     <div class="col-md-3 col-md-offset-1">
-                                        <h5>12<br /><small>Files</small></h5>
+                                        <h5>12<br /><small>Transactions</small></h5>
                                     </div>
                                     <div class="col-md-4">
                                         <h5>2GB<br /><small>Used</small></h5>
                                     </div>
                                     <div class="col-md-3">
-                                        <h5>24,6$<br /><small>Spent</small></h5>
+                                        <h5>24,6Php<br /><small>Spent</small></h5>
                                     </div>
                                 </div>
                             </div>
