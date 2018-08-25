@@ -40,4 +40,9 @@ Route::prefix('/')->group(function () {
     Route::get('notifications', function () {
     	return view('notifications');
     });
+
+    Route::get('sample', function () {
+    return view('sample');
+});
+
 });
